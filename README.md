@@ -1,3 +1,16 @@
+# Previsao do Tempo
+
+Projeto para consultar previsão do tempo via API 
+
+## BootCamp DIO 
+
+Digital Inovation One
+
+## Professor João Ghignatti
+
+https://github.com/JGhignatti/jv-weather
+
+
 # JvWeather
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.

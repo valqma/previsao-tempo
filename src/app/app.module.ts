@@ -31,6 +31,7 @@ import { CustomRouterSerializer } from './shared/state/router/router.reducer';
     StoreDevtoolsModule.instrument({ maxAge: 25, logOnly: environment.production }),
     EffectsModule.forRoot([]),
     StoreRouterConnectingModule.forRoot({ serializer: CustomRouterSerializer }),
+    StoreModule.forRoot({}, {}),
   ],
   providers: [],
   bootstrap: [AppComponent]
